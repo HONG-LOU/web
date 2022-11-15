@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  width: 500px;
+  background-color: indianred;
+  border-radius: 15px;
+}
+
+html {
+  background-color: indigo;
+}
+
+#p1 {
+  font-size: 20px;
+}
